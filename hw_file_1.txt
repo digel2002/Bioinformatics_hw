@@ -1,0 +1,17 @@
+It's my homework
+  272  more my_hw_file.txt
+  273  cho "It's my homework" > my_hw_file.txt
+  274  echo "It's my homework" > my_hw_file.txt
+  275  mv my_hw_file.txt hw_file_1.txt
+  276  cp hw_file_1.txt ~/homework/
+  277  mkdir ~ /homework
+  278  mkdir ~/homework/
+  279  cp hw_file_1.txt ~/homework/
+  280  rm ~/homework/hw_file_1.txt
+  281  tree ~ >> ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+  282  brew install tree
+  283  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  284  tree ~ >> ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+  285  brew install tree         
+  286  tree ~ >> ~/Bioinformatics_2025/hw/hw_1/hw_file.txt
+  287  cat ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
